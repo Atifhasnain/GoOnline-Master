@@ -38,8 +38,8 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Facts About Us
-  description: "'See what our happy clients saying about Go Online'"
+  title: See What Our Clients Saying About Us
+  # description: "'See what our happy clients saying about Go Online'"
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Satisfied Clients
