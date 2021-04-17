@@ -93,7 +93,7 @@ preloader = "images/goonline.svg" # use .png , .svg or .gif image
 
 ################################# Cookies #####################################
 [params.cookies]
-enable = false
+enable = true
 expire_days = 2
 
 
