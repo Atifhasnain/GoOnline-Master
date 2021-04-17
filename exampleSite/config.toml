@@ -189,20 +189,20 @@ weight = 4
   URL = "pricing"
   weight = 5
 
-[[languages.en.menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 6
+# [[languages.en.menu.main]]
+# name = "Blog"
+# URL = "blog"
+# weight = 6
 
-[[languages.en.menu.main]]
-  name = "FAQ"
-  URL = "faq"
-  weight = 7
+# [[languages.en.menu.main]]
+#   name = "FAQ"
+#   URL = "faq"
+#   weight = 7
 
 [[languages.en.menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 8
+weight = 6
 
 # [[languages.en.menu.main]]
 # weight = 5
@@ -230,15 +230,15 @@ name = "Pricing"
 URL = "pricing"
 weight = 4
 
-[[languages.en.menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
+# [[languages.en.menu.footer]]
+# name = "FAQ"
+# URL = "faq"
+# weight = 5
 
 [[languages.en.menu.footer]]
 name = "Contact"
 URL = "contact"
-weight = 6
+weight = 5
 
 
 ################################# French translation ##########################

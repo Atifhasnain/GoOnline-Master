@@ -1,6 +1,6 @@
 ---
 title: "Our Pricing"
-description: "this is meta description"
+description: "Get your online presence at market competitive prices, with maintenance support"
 bg_image: "images/feature-bg.jpg"
 layout: "pricing"
 draft: false
