@@ -31,32 +31,28 @@ cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
   title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  content: Ready to take make your business online presence with us
   button:
     enable: true
-    label: Tell Us Your Story
+    label: Contact Us
     link: contact
 funfacts:
   enable: true
-  title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  title: Facts About Us
+  description: "'See what our happy clients saying about Go Online'"
   funfact_item:
   - icon: ion-ios-chatboxes-outline
-    name: Cups Of Coffee
-    count: '99'
+    name: Satisfied Clients
+    count: '100'
   - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: '45'
+    name: Years of Experience
+    count: '7+'
   - icon: ion-ios-compose-outline
     name: Projects Completed
-    count: '125'
+    count: '100'
   - icon: ion-ios-timer-outline
     name: Combined Projects
-    count: '200'
+    count: '150'
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
