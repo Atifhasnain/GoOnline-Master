@@ -7,11 +7,11 @@ banner:
   content: Let us solve your critical website development challenges. <br/> We love clean design and advanced digital solutions for our loyal clients which gives them freedom to focus on their business growth.
   button:
     enable: true
-    label: Check Our Services
-    link: service
+    label: Discover Our Project
+    link: project
 about:
   enable: true
-  title: We create digital ideas that are bigger, bolder, braver and better.
+  title: About Us
   description: We believe in creating new perception for better future & revolutionary era. Accelerating more power to the innovative digital solutions. Learning, experimentation and innovation are the keys to providing the best available services to our clients.
   
   Adapting market trends and sharping for future prospects, our core values are what drive us forward in every project we take up.
