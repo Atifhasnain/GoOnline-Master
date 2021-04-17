@@ -4,7 +4,7 @@ banner:
   bg_image: images/showcase.png
   bg_overlay: true
   title: Smart Website Solutions
-  content: Let us solve your critical website development challenges. <br/> We love clean design and advanced digital solutions for our loyal clients which gives them freedom to focus on their business growth.
+  content: [Let us solve your critical website development challenges] <br/> We love clean design and advanced digital solutions for our loyal clients which gives them freedom to focus on their business growth.
   button:
     enable: true
     label: Discover Our Project
