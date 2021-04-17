@@ -55,7 +55,7 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [params.contact]
 # Address block
 phone = "+92-321-2956633"
-email = "info@goonline.dev"
+email = "goonline@gmail.com"
 location = """
 **GoOnline**  
 Johar Town, Lahore  
