@@ -46,7 +46,7 @@ funfacts:
     count: '100'
   - icon: ion-ios-glasses-outline
     name: Years of Experience
-    count: '7+'
+    count: '07'
   - icon: ion-ios-compose-outline
     name: Projects Completed
     count: '100'
