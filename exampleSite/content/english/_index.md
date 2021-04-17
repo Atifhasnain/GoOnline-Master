@@ -30,8 +30,8 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Ready to take make your business online presence with us
+  title: Ready to take make your business online presence with us
+  content: We provide best services to our client, which make every experience memorable.
   button:
     enable: true
     label: Contact Us
