@@ -2,10 +2,9 @@
 banner:
   enable: true
   bg_image: images/showcase.png
-  bg_overlay: false
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  bg_overlay: true
+  title: Let us solve your critical website <br/> development challenges.
+  content: We love clean design and advanced digital solutions for our loyal clients which gives them freedom to focus on their business growth.
   button:
     enable: true
     label: Discover Our Project
