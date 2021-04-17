@@ -1,26 +1,33 @@
 ---
 banner:
   enable: true
-  bg_image: images/showcase.png
+  bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: Let us solve your critical </br> website development challenges.
-  content: We love clean design and advanced digital solutions for our loyal clients which gives them freedom to focus on their business growth.
+  title: A Digital Marketing <br/> & Design Agency
+  content: We love the Web and the work we do.We work closely with our clients to
+    deliver  the best possible solutions for their needs
   button:
     enable: true
-    label: Check Our Services
-    link: service
+    label: Discover Our Project
+    link: project
 about:
   enable: true
-  title: WE CREATE DIGITAL IDEAS THAT ARE BIGGER, BOLDER, BRAVER & BETTER
-  description: We believe in creating new perception for better future & revolutionary era. Accelerating more power to the innovative digital solutions. Learning, experimentation and innovation are the keys to providing the best available services to our clients.
-  
-  Adapting market trends and sharping for future prospects, our core values are what drive us forward in every project we take up.
+  title: About Us
+  description: Far far away, behind the word mountains, far from the countries Vokalia
+    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
+    right at the coast of the Semantics
+  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+    culpa qui officia deserunt mollit anim id.
   image: images/wrapper-img.png
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
   title: WE BELIEVE IN GREAT IDEAS
-  description: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
+  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
     ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
     condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
     mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
@@ -30,7 +37,7 @@ portfolio:
     tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
   button:
     enable: true
-    label: Projects Completed
+    label: View Works
     link: project
 service:
   enable: true
@@ -47,7 +54,7 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Facts About Us
+  title: Fun Facts About Us
   description: "'Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics'"
