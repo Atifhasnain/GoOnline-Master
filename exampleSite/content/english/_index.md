@@ -20,7 +20,8 @@ portfolio:
   bg_image: images/feature-bg.jpg
   title: WE BELIEVE IN GREAT IDEAS
   content: "Our Insights Lead to Strategies, Strategies Lead to Actions, and Actions Lead to Success <br/>
-  Portfolio helps you to figureout a company’s outcomes of any services. Checkout the portfolio and reviews of our happy clients to get quality & guaranteed services. "
+  Portfolio helps you to figureout a company’s outcomes of any services. Checkout the 
+  portfolio and reviews of our happy clients to get quality & guaranteed services."
   button:
     enable: true
     label: Completed Projects
