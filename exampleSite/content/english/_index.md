@@ -1,27 +1,20 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/showcase.png
   bg_overlay: true
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  title: Let us solve your critical </br> website development challenges.
+  content: We love clean design and advanced digital solutions for our loyal clients which gives them freedom to focus on their business growth.
   button:
     enable: true
-    label: Discover Our Project
-    link: project
+    label: Check Our Services
+    link: service
 about:
   enable: true
-  title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  title: We create digital ideas that are bigger, bolder, braver and better.
+  description: We believe in creating new perception for better future & revolutionary era. Accelerating more power to the innovative digital solutions. Learning, experimentation and innovation are the keys to providing the best available services to our clients.
+  
+  Adapting market trends and sharping for future prospects, our core values are what drive us forward in every project we take up.
   image: images/wrapper-img.png
 portfolio:
   enable: true
