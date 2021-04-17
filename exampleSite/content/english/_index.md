@@ -3,7 +3,8 @@ banner:
   enable: true
   bg_image: images/showcase.png
   bg_overlay: true
-  title: Let us solve your critical website <br/> development challenges.
+  title: Smart Website Solutions
+  description: Let us solve your critical website development challenges.
   content: We love clean design and advanced digital solutions for our loyal clients which gives them freedom to focus on their business growth.
   button:
     enable: true
