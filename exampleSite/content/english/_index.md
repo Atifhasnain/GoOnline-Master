@@ -12,15 +12,13 @@ banner:
 about:
   enable: true
   title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+               
+  description: We believe in creating new perception for better future & revolutionary era.
+               Accelerating more power to the innovative digital solutions. Learning, 
+               experimentation and innovation are the keys to providing the best available 
+               services to our clients
+  content: Adapting market trends and sharping for future prospects, our core values 
+  are what drive us forward in every project we take up.
   image: images/wrapper-img.png
 portfolio:
   enable: true
