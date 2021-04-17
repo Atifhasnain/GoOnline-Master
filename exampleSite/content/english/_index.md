@@ -54,24 +54,18 @@ funfacts:
     name: Combined Projects
     count: '150'
   testimonial_slider:
-  - name: Raymond Roy
+  - name: MAXIME DESROSIERS
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-  - name: Randi Renin
+    designation: Elementor Create Tutorial Articles | Upwork
+    content: Great person, very honest. I enjoyed working with him. I recommend him for Elementor work!
+  - name: Chris Zardinidis
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-  - name: Rose Rio
+    designation: Web Design | Upwork
+    content: Highly Recommended! He goes above and beyond to help your ideas become a reality! He's very meticulous and does not rest until project is completed. Always goes above and beyond!
+  - name: Tweak CSS for POWr.io Comments Plus plug-in on Wix | Upwork
     image: images/clients/avater-3.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    designation: Jack Kammer
+    content: This was the second very nice custom CSS job Saqib did me on a POWr.io plug-in I use on my Wix-hosted website.
 title: GoOnline
 description: Web Solutions
 
