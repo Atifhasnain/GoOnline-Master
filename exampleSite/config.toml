@@ -1,7 +1,7 @@
 ################################# Basic configuration #########################
 # Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-baseURL = "http://examplesite.org"
-title = "Airspace | Creative Agency Hugo Template"
+baseURL = "https://goonline.dev"
+title = "Go Online | Web Solutions"
 theme = "airspace-hugo"
 # Number of posts per page in list view
 paginate = "4"
@@ -37,13 +37,13 @@ unsafe = true
 
 ################################# Default parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/Goonline.svg"
 logo_width = "150px"
 # OpenGraph / Twitter Card metadata
-title = "Airspace Hugo Template"
-description = "This is meta description"
+title = "Go Online"
+description = "Providing best web solutions for business to make their online presence."
 author = "Themefisher"
-images = [ "images/logo.png" ] # First image here will be used as fallback if a page has no images of its own
+images = [ "images/Goonline.svg" ] # First image here will be used as fallback if a page has no images of its own
 
 
 ################################# Sidebar widgets #############################
@@ -54,13 +54,13 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 ################################# Contact page ################################
 [params.contact]
 # Address block
-phone = "0124857985320"
-email = "demo@email.com"
+phone = "+92-321-2956633"
+email = "info@goonline.dev"
 location = """
-**Themefisher**  
-North Main Street  
-Brooklyn, New South Wales  
-Australia
+**GoOnline**  
+Johar Town, Lahore  
+Punjab  
+Pakistan
 """
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
@@ -99,28 +99,16 @@ expire_days = 2
 
 ################################# Social Media ################################
 [[params.social]]
-icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
 icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+link = "https://www.facebook.com/goonline.dev"
 
 [[params.social]]
 icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+link = "https://www.facebook.com/goonline.dev"
 
 [[params.social]]
 icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+link = "https://www.facebook.com/goonline.dev"
 
 
 ################################# Plugins #####################################
