@@ -11,7 +11,7 @@ banner:
     link: service
 about:
   enable: true
-  title: We create digital ideas that are bigger, bolder, braver and better.
+  title: WE CREATE DIGITAL IDEAS THAT ARE BIGGER, BOLDER, BRAVER & BETTER
   description: We believe in creating new perception for better future & revolutionary era. Accelerating more power to the innovative digital solutions. Learning, experimentation and innovation are the keys to providing the best available services to our clients.
   
   Adapting market trends and sharping for future prospects, our core values are what drive us forward in every project we take up.
@@ -20,7 +20,7 @@ portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
   title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
+  description: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
     ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
     condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
     mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
@@ -30,7 +30,7 @@ portfolio:
     tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
   button:
     enable: true
-    label: View Works
+    label: Projects Completed
     link: project
 service:
   enable: true
