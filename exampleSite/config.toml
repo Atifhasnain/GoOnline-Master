@@ -38,7 +38,7 @@ unsafe = true
 ################################# Default parameters ##########################
 [params]
 logo = "images/Goonline.svg"
-logo_width = "200px"
+logo_width = "150px"
 # OpenGraph / Twitter Card metadata
 title = "Go Online"
 description = "Providing best web solutions for business to make their online presence."
