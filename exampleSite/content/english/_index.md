@@ -29,7 +29,7 @@ service:
   enable: true
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
+  bg_image: images/call.jpg
   title: Ready to take make your business online presence with us
   content: We provide best services to our client, which make every experience memorable.
   button:
