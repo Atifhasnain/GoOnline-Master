@@ -15,12 +15,13 @@ pricing:
     content : "Perfect for single freelancers who work by themselves"
     link : "#"
     services:
-    -#####Domain & Hosting
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - Domain & Hosting
+    - SSL Certificate
+    - Content Upload
+    - Theme Installation
+    - Responsive Design
+    - Resume/Portfolio/Landing
+    - Custom Domain i.e. goonline.dev/yourname
       
   # pricing table loop
   - name : "Premium"
