@@ -87,7 +87,7 @@ service:
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
       name: Logo Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut<br/>"
 
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
