@@ -113,6 +113,10 @@ service:
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
       name: Online Resume
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    # service item loop
+    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
+      name: GSuite
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
       
 ############################# call to action #################################
 cta:
