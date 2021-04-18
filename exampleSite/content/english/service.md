@@ -87,32 +87,38 @@ service:
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
       name: Logo Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut<br/>"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
       name: Web Hosting
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
       name: Domain Registration
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
       name: Content Writing
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
       name: Business Card
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
       name: E-Brochure
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
       name: Online Resume
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
       name: GSuite
