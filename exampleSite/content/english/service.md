@@ -1,6 +1,6 @@
 ---
 title: "Service"
-description: "this is meta description"
+description: "We are the best web solutions company which provides digital & creative solutions"
 bg_image: "images/portfolio.jpg"
 layout: "service"
 draft: false
@@ -47,47 +47,71 @@ featured_service:
 service:
   enable : true
   title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  description : "We are the best web solutions company which provides digital & creative solutions"
   service_item:
-    # service item loop
-    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/
-      name: Branding
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
     # service item loop
     - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/
       name: Web Design
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
+    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/
+      name: Grpahic Dsign
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+   # service item loop
+    - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/
+      name: Web Development
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+    # service item loop
     - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/
-      name: App Design
+      name: Web Maintenance
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/
-      name: Start Up
+      name: Social Media Marketing
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/
-      name: Logo Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/
-      name: Development
+      name: Search Engine Optimization
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
+      name: Ecommerce
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
+      name: Logo Design
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+    # service item loop
+    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
+      name: Web Hosting
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    # service item loop
+    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
+      name: Domain Registration
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    # service item loop
+    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
+      name: Content Writing
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    # service item loop
+    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
+      name: Business Card
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    # service item loop
+    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
+      name: E-Brochure
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    # service item loop
+    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
+      name: Online Resume
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
       
 ############################# call to action #################################
