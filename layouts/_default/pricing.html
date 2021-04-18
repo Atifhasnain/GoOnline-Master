@@ -10,11 +10,11 @@
       <!-- single pricing table -->
       {{ range .pricing_table }}
       <div class="col-md-4 col-sm-6 col-xs-12">
-        <div class="pricing-item text-center">
+        <div class="pricing-item text-left">
           <div class="price-title">
             <h3>{{ .name }}</h3>
             <strong class="value">{{ .price }}</strong>
-            <p>{{ .content | markdownify }}</p>
+            <h5>{{ .content | markdownify }}</h5>
           </div>
           <ul>
             {{ range .services }}
