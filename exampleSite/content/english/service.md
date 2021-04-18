@@ -46,48 +46,48 @@ featured_service:
 ############################# Service ###############################
 service:
   enable : true
-  title : "Our Services"
-  description : "We are the best web solutions company which provides digital & creative solutions"
+  title : "Services"
+  description : "We take care of your business"
   service_item:
     # service item loop
     - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/
       name: Web Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "Website designing and web development company in Lahore, Pakistan having more than 300 clients not only in Pakistan but also around the world and have professional team for last 13 years."
 
     # service item loop
     - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/
       name: Grpahic Dsign
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "When it comes to start any business planning the client's first thought is to have an excellent professionally designed website. A well professionally designed website is very important for any business owner."
 
    # service item loop
     - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/
       name: Web Development
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "Hubsol brings simple, direct and cost-effective approach to design your website up to the standard of your online business, here we deliver top quality Web Designing along with web development and digital marketing."
 
     # service item loop
     - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/
       name: Web Maintenance
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "Websites are required to be maintained because of the daily updates, news and other uploads. The main objective of every website is to enhance sales and to keep your customers connected with your website."
 
     # service item loop
     - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/
       name: Ecommerce Solutions
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "We provides user friendly E-Commerce web designs which are customized for the purchasing process. Customized E-Commerce applications are an asset for both the consumers and organizations since they."
 
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
       name: Web Hosting
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "We are serving to give your website a right zip code through Website hosting services so that people may know it. Then by linking your domain name with our own domain name server, we work further."
 
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
       name: Domain Registration
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "Choosing a domain name is very important for any business as it represents the business online. With the growing use of web as medium of trade and business, it has become even more important to choose the name."
 
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
       name: GSuite
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "Creating a good looking web design is an art not every company can master. We don't want to boost that we are the best, but we can for sure say we have enough skills and experience to build a website of any nature."
       
 ############################# call to action #################################
 cta:
