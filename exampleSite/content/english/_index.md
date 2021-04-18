@@ -17,7 +17,7 @@ about:
   image: images/ideas.jpg
 portfolio:
   enable: true
-  bg_image: images/feature-bg.jpg
+  bg_image: images/portfolio.jpg
   title: We Believe in Great Ideas Which Lead to Strategies, Strategies Lead to Actions, and Actions Lead to Success
   content: "Portfolio helps you to figureout a company’s outcomes of any services. Checkout the 
   portfolio and reviews of our happy clients to get quality & guaranteed services."
