@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/header.jpg
+  bg_image: images/banner.jpg
   bg_overlay: true
   title: Smart Website Solutions
   content: Let us solve your critical website development challenges. <br/> We love clean design and advanced digital solutions for our loyal clients which gives them freedom to focus on their business growth.
