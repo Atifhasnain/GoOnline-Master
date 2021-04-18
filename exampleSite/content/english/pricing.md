@@ -16,7 +16,7 @@ pricing:
     link : "#"
     services:
     - ~~Domain & Hosting~~
-    - No Custom Domain i.e. goonline.dev/yourname
+    - Custom URL Only i.e. goonline.dev/yourname
     - SSL Certificate
     - Content Upload
     - Theme Installation
@@ -39,10 +39,10 @@ pricing:
     - Premium Theme Installation*
     - Plugins/Extensions
     - Social Media Integrations
-    - Ecommerce Integrations
-    - Products Upload
-    - Uptime Monitor
-    - Weekly Backup & Updates
+    - ~~Ecommerce Integrations~~
+    - ~~Products Upload~~
+    - ~~Uptime Monitor~~
+    - ~~Weekly Backup & Updates~~
     - 3 Revisions
       
   # pricing table loop
