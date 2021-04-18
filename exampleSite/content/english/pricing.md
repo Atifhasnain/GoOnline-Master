@@ -15,7 +15,7 @@ pricing:
     content : "Perfect for single freelancers who work by themselves"
     link : "#"
     services:
-    - Unlimited agents
+    -#####Domain & Hosting
     - 10 PSD Design
     - HTML5 Markup
     - Basic SEO
