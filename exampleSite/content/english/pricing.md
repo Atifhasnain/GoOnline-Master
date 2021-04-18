@@ -15,13 +15,13 @@ pricing:
     content : "Perfect for single freelancers who work by themselves"
     link : "#"
     services:
-    - Domain & Hosting
+    - ~~Domain & Hosting~~
+    - No Custom Domain i.e. goonline.dev/yourname
     - SSL Certificate
     - Content Upload
     - Theme Installation
     - Responsive Design
     - Resume/Portfolio/Landing
-    - Custom Domain i.e. goonline.dev/yourname
       
   # pricing table loop
   - name : "Premium"
@@ -29,12 +29,21 @@ pricing:
     content : "Suitable for small businesses with up to 5 employees"
     link : "#"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - Domain & Hosting (Cloud Based)
+    - Custom Domain Name
+    - SSL Certificate
+    - Content Upload
+    - Theme Installation
+    - Responsive Design
+    - Upto 5 Pages
+    - Premium Theme Installation*
+    - Plugins/Extensions
+    - Social Media Integrations
+    - Ecommerce Integrations
+    - Products Upload
+    - Uptime Monitor
+    - Weekly Backup & Updates
+    - 3 Revisions
       
   # pricing table loop
   - name : "Advance"
@@ -42,12 +51,21 @@ pricing:
     content : "Suitable for large businesses with unlimited employees"
     link : "#"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - Domain & Hosting (Cloud Based)
+    - Custom Domain Name
+    - SSL Certificate
+    - Content Upload
+    - Theme Installation
+    - Responsive Design
+    - Upto 10 Pages
+    - Premium Theme Installation
+    - Plugins/Extensions
+    - Social Media Integrations
+    - Ecommerce Integrations
+    - 30 Products Upload
+    - Uptime Monitor
+    - Weekly Backup & Updates
+    - 7 Revisions
         
 ############################# call to action #################################
 cta:
