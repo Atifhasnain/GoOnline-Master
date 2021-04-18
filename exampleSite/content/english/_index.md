@@ -15,6 +15,8 @@ about:
   description: We believe in creating new perception for better future & revolutionary 
     era. Accelerating more power to the innovative digital solutions. Learning, experimentation and innovation are the keys to providing the best available services to our clients.<br/> <br/>Adapting market trends and sharping for future prospects, our core values are what drive us forward in every project we take up.
   image: images/ideas.jpg
+service:
+  enable: true
 portfolio:
   enable: true
   bg_image: images/portfolio.jpg
@@ -25,8 +27,6 @@ portfolio:
     enable: true
     label: Completed Projects
     link: project
-service:
-  enable: true
 cta:
   enable: true
   bg_image: images/call.jpg
