@@ -14,7 +14,7 @@
           <div class="price-title">
             <h3>{{ .name }}</h3>
             <strong class="value">{{ .price }}</strong>
-            <h5>{{ .content | markdownify }}</h5>
+            <p>{{ .content | markdownify }}</p>
           </div>
           <ul>
             {{ range .services }}
