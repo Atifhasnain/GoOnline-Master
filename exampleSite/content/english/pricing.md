@@ -1,7 +1,7 @@
 ---
 title: "Our Pricing"
 description: "Get your online presence at market competitive prices, with maintenance support"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/portfolio.jpg"
 layout: "pricing"
 draft: false
 
