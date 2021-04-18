@@ -70,23 +70,8 @@ service:
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/
-      name: Social Media Marketing
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/
-      name: Search Engine Optimization
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
     - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/
-      name: Ecommerce
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
-      name: Logo Design
+      name: Ecommerce Solutions
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
@@ -99,26 +84,6 @@ service:
       name: Domain Registration
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
-    # service item loop
-    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
-      name: Content Writing
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
-      name: Business Card
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
-      name: E-Brochure
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
-      name: Online Resume
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-      
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
       name: GSuite
